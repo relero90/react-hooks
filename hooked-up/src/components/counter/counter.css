@@ -15,3 +15,10 @@
   padding: 1rem;
   font-size: 4rem;
 }
+
+#green {
+  background-color: green;
+}
+#red {
+  background-color: red;
+}
