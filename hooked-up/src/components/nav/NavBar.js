@@ -9,8 +9,8 @@ function NavBar() {
         <Link to="/count" className="navLink">
           <li>Counter</li>
         </Link>
-        <Link to="/" className="navLink">
-          <li>Example</li>
+        <Link to="/dogs" className="navLink">
+          <li>Dogs</li>
         </Link>
         <Link to="/" className="navLink">
           <li>Example</li>
