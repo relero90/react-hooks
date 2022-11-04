@@ -6,6 +6,7 @@ import "./app.css";
 import NavBar from "./components/nav/NavBar";
 import Counter from "./components/counter/Counter";
 import Dogs from "./components/dog-gallery/Dogs";
+import Socialize from "./components/socialize/Socialize";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Routes>
         <Route path="/count" element={<Counter />} />
         <Route path="/dogs" element={<Dogs />} />
+        <Route path="/socialize" element={<Socialize />} />
       </Routes>
     </div>
   );

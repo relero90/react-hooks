@@ -1,0 +1,9 @@
+.listDiv {
+  width: 100vw;
+}
+
+.listItem {
+  max-width: 90%;
+  margin: 1rem;
+  padding: 1rem;
+}
